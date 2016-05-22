@@ -1,3 +1,7 @@
+;Adanced Programming Lab 10
+;Syed Ammar Abbas Naqvi
+;Reg # 6046
+
 ;1. Add
 (define (add m n s z)
 (m s (n s z)))
