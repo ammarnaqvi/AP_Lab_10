@@ -30,4 +30,4 @@
 
 ;7. GEQ
 (define (geq m n)
-(isZero (sub n m)))
+(or (eq (m n) not (leq (m n)))))
